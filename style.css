@@ -1,0 +1,22 @@
+.heading {
+    width: 100%;
+    margin: 0px;
+    font-size: 25px;
+    font-family: Algerian;
+}
+
+body {
+    background-size: cover;
+}
+
+.note {
+    color: pink;
+    font-family: Algerian;
+    font-size: 15px;
+}
+canvas
+{
+    border-radius: 30px;
+    border: solid whitesmoke;
+    margin: 100px;
+}
